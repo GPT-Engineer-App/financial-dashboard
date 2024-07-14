@@ -12,7 +12,7 @@ import { DollarSign, TrendingUp, TrendingDown, Percent } from "lucide-react";
 
 const Index = () => {
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 p-4">
       <h1 className="text-3xl font-bold">Welcome back, John!</h1>
       
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
